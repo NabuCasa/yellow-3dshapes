@@ -54,3 +54,9 @@ Set Appearance in FreeCAD to Material Plastic, Shape color #f0f0f0 and
 transparancy 50%.
 Converted using FreeCAD/KiCadStepUp.
 
+- SW_SPST_B3U-3100P-B.step/wrl
+Source URL: https://octopart.com/b3u-3100p-omron-7398135
+Converted and colorized using FreeCAD/KiCadStepUp.
+Under Terms & conditions of Octopart. Licensed to redistribute with the circuit
+board design.
+
