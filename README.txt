@@ -64,3 +64,7 @@ board design.
 Source URL: https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/749119550/5051018
 Converted using FreeCAD/KiCadStepUp.
 
+- TE_1-2199119-5_Bus_M.2_M_H3.2mm_P0.5mm_Horizontal.step/wrl
+Source URL: https://www.te.com/usa-en/product-1-2199119-5.html
+Converted using FreeCAD/KiCadStepUp.
+
