@@ -60,3 +60,7 @@ Converted and colorized using FreeCAD/KiCadStepUp.
 Under Terms & conditions of Octopart. Licensed to redistribute with the circuit
 board design.
 
+- Transformer_Wuerth_749119550.step/wrl
+Source URL: https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/749119550/5051018
+Converted using FreeCAD/KiCadStepUp.
+
