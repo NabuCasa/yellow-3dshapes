@@ -68,3 +68,6 @@ Converted using FreeCAD/KiCadStepUp.
 Source URL: https://www.te.com/usa-en/product-1-2199119-5.html
 Converted using FreeCAD/KiCadStepUp.
 
+- Jack_3.5mm_HRO_PJ-3973-6A_Horizontal.step/wrl/FCStd
+Designed in FreeCAD 0.18, converted using FreeCAD/KiCadStepUp.
+
