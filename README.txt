@@ -38,6 +38,12 @@ Converted and colorized using FreeCAD/KiCadStepUp.
 Content from the Website may be downloaded and used only for the purpose of
 evaluating Molex’s products for use in an application.
 
+- HDMI_Micro-D_Molex_46765-1x01.step/wrl
+Source URL: https://www.molex.com/molex/products/part-detail/io_connectors/0467651301
+Converted and colorized using FreeCAD/KiCadStepUp.
+Content from the Website may be downloaded and used only for the purpose of
+evaluating Molex’s products for use in an application.
+
 - RJ45_TE_2337992-8_Horizontal.step/wrl
 Source URL: https://www.te.com/global-en/product-2337992-8.html (step file, original c-5-2337992-8-a-3d.stp)
 Converted and colorized using FreeCAD/KiCadStepUp.
