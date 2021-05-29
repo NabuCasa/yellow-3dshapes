@@ -77,3 +77,7 @@ Converted using FreeCAD/KiCadStepUp.
 - Jack_3.5mm_HRO_PJ-3973-6A_Horizontal.step/wrl/FCStd
 Designed in FreeCAD 0.18, converted using FreeCAD/KiCadStepUp.
 
+- LED_LiteOn_LTST-C19HE1WT.step/wrl
+Source URL: https://octopart.com/ltst-c19he1wt-lite-on-13128904
+Converted and colorized using FreeCAD/KiCadStepUp.
+
