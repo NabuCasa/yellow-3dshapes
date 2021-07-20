@@ -84,3 +84,9 @@ Converted and colorized using FreeCAD/KiCadStepUp.
 - Hirose_DF40_DF40C-100DS-0.4V_2x50_P0.40mm_Vertical.step/wrl
 Source URL: https://octopart.com/df40c-100ds-0.4v%2851%29-hirose-19073520
 Converted and colorized using FreeCAD/KiCadStepUp.
+
+- L_Taiyo-Yuden_NR-50xx.step/wrl/FCStd
+Designed in FreeCAD 0.19, converted using FreeCAD/KiCadStepUp.
+
+- L_Taiyo-Yuden_NR-80xx.step/wrl/FCStd
+Designed in FreeCAD 0.19, converted using FreeCAD/KiCadStepUp.
