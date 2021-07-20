@@ -90,3 +90,6 @@ Designed in FreeCAD 0.19, converted using FreeCAD/KiCadStepUp.
 
 - L_Taiyo-Yuden_NR-80xx.step/wrl/FCStd
 Designed in FreeCAD 0.19, converted using FreeCAD/KiCadStepUp.
+
+- Transformer_Pulse_PA2467NL.step/wrl/FCStd
+Designed in FreeCAD 0.19, converted using FreeCAD/KiCadStepUp.
