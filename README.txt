@@ -93,3 +93,6 @@ Designed in FreeCAD 0.19, converted using FreeCAD/KiCadStepUp.
 
 - Transformer_Pulse_PA2467NL.step/wrl/FCStd
 Designed in FreeCAD 0.19, converted using FreeCAD/KiCadStepUp.
+
+- Jack_3.5mm_XKB_PJ-3270_Horizontal.step/wrl/FCStd
+Designed in FreeCAD 0.19, converted using FreeCAD/KiCadStepUp.
