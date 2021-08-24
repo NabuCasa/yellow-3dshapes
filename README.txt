@@ -96,3 +96,8 @@ Designed in FreeCAD 0.19, converted using FreeCAD/KiCadStepUp.
 
 - Jack_3.5mm_XKB_PJ-3270_Horizontal.step/wrl/FCStd
 Designed in FreeCAD 0.19, converted using FreeCAD/KiCadStepUp.
+
+- L_CommonModeChoke_Murata_DLW5B.step/wrl
+Under Terms & conditions of Octopart. Licensed to redistribute with the circuit
+board design. Adjusted, converted using FreeCAD/KiCadStepUp.
+
