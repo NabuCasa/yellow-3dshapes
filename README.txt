@@ -101,3 +101,11 @@ Designed in FreeCAD 0.19, converted using FreeCAD/KiCadStepUp.
 Under Terms & conditions of Octopart. Licensed to redistribute with the circuit
 board design. Adjusted, converted using FreeCAD/KiCadStepUp.
 
+- SW_Tactile_SPST_Angled_Blue_PTS645Vx83-2LFS.step/wrl/FCStd
+Source: From KiCad offical library (SW_Tactile_SPST_Angled_PTS645Vx83-2LFS.step)
+Converted and colorized using FreeCAD/KiCadStepUp.
+
+- SW_Tactile_SPST_Angled_Red_PTS645Vx58-2LFS.step/wrl/FCStd
+Source: From KiCad offical library (SW_Tactile_SPST_Angled_PTS645Vx58-2LFS.step)
+Converted and colorized using FreeCAD/KiCadStepUp.
+
