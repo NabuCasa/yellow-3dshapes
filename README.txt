@@ -109,3 +109,5 @@ Converted and colorized using FreeCAD/KiCadStepUp.
 Source: From KiCad offical library (SW_Tactile_SPST_Angled_PTS645Vx58-2LFS.step)
 Converted and colorized using FreeCAD/KiCadStepUp.
 
+- SW_SPST_TL3305A.step/wrl
+Source: https://gitlab.com/kicad/libraries/kicad-packages3D/-/merge_requests/632
